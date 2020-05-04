@@ -1,4 +1,5 @@
-[
+{
+  weightdata: [
   {
     "index": 0,
     "name": "Ila",
@@ -114,3 +115,4 @@
     "weight": "69.0"
   }
 ]
+}
