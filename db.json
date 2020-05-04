@@ -21,7 +21,125 @@
   {
     "index": 3,
     "name": "Sloan",
+    "datechecked": "2014-04-03",{
+  "weightdata": [
+  {
+    "id": 0,
+    "name": "Ila",
+    "datechecked": "2014-04-17",
+    "weight": "268.2"
+  },
+  {
+    "id": 1,
+    "name": "Cathryn",
+    "datechecked": "2014-04-01",
+    "weight": "293.9"
+  },
+  {
+    "id": 2,
+    "name": "Jacklyn",
+    "datechecked": "2014-04-21",
+    "weight": "250.5"
+  },
+  {
+    "id": 3,
+    "name": "Sloan",
     "datechecked": "2014-04-03",
+    "weight": "141.0"
+  },
+  {
+    "id": 4,
+    "name": "Aurora",
+    "datechecked": "2014-04-25",
+    "weight": "205.6"
+  },
+  {
+    "id": 5,
+    "name": "Helene",
+    "datechecked": "2014-04-02",
+    "weight": "247.8"
+  },
+  {
+    "id": 6,
+    "name": "Katelyn",
+    "datechecked": "2014-04-12",
+    "weight": "213.4"
+  },
+  {
+    "id": 7,
+    "name": "Potter",
+    "datechecked": "2014-04-18",
+    "weight": "258.0"
+  },
+  {
+    "id": 8,
+    "name": "Stewart",
+    "datechecked": "2014-04-05",
+    "weight": "171.1"
+  },
+  {
+    "id": 9,
+    "name": "Bernard",
+    "datechecked": "2014-04-28",
+    "weight": "103.3"
+  },
+  {
+    "id": 10,
+    "name": "Alyce",
+    "datechecked": "2014-04-17",
+    "weight": "261.4"
+  },
+  {
+    "id": 11,
+    "name": "Kristy",
+    "datechecked": "2014-04-13",
+    "weight": "148.1"
+  },
+  {
+    "id": 12,
+    "name": "Colon",
+    "datechecked": "2014-04-24",
+    "weight": "124.0"
+  },
+  {
+    "id": 13,
+    "name": "Barrera",
+    "datechecked": "2014-04-29",
+    "weight": "159.9"
+  },
+  {
+    "id": 14,
+    "name": "Louella",
+    "datechecked": "2014-04-03",
+    "weight": "256.7"
+  },
+  {
+    "id": 15,
+    "name": "Bonner",
+    "datechecked": "2014-04-26",
+    "weight": "218.3"
+  },
+  {
+    "id": 16,
+    "name": "Isabelle",
+    "datechecked": "2014-04-06",
+    "weight": "104.3"
+  },
+  {
+    "id": 17,
+    "name": "Lynne",
+    "datechecked": "2014-04-22",
+    "weight": "56.8"
+  },
+  {
+    "id": 18,
+    "name": "Durham",
+    "datechecked": "2014-04-01",
+    "weight": "69.0"
+  }
+]
+}
+
     "weight": "141.0"
   },
   {
